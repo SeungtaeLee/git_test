@@ -13,8 +13,8 @@ test repo for practice using git
 - register your public key on github
 - add your private key to ssh-agent
 ```bash
-eval "$(ssh-agent -s)"
-ssh-add "your private key path"
-git remote set-url git@github.com:[username]/[project_name].git
+>eval "$(ssh-agent -s)"
+>ssh-add "your private key path"
+>git remote set-url git@github.com:[username]/[project_name].git
 ```
 
