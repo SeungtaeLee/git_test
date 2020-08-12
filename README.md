@@ -1,5 +1,5 @@
 # git_test
-test repo for practice using git
+test repo for practicing git commands
 
 ## Process of git command
 - [x] init
